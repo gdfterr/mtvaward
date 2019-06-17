@@ -1,0 +1,20 @@
+{
+    "name": "premiere-award/mtv-movie-tv-awards-2019-live-stream",
+    "description": "Watch MTV Movie & TV Awards 2019 Live Stream Full Free Putlocker WATCH FULL EPISODES NOW (CLICK LINK BELOW TO WATCHING)",
+	"keywords": ["MTV Movie and TV Awards 2019 live stream"],
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "WATCH HERE : https://t.co/yKTM3JTpxW",
+            "homepage": "https://t.co/yKTM3JTpxW",
+            "role": "Developer"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "movies123\\": "src/"
+        }
+    },
+    "minimum-stability": "dev"
+}
